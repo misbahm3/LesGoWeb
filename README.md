@@ -1,0 +1,2 @@
+# LesGoWeb
+Aplikasi admin LesGo
